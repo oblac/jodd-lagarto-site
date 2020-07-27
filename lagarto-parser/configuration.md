@@ -1,0 +1,6 @@
+---
+description: LagartoParser configuration
+---
+
+# Configuration
+
