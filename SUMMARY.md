@@ -10,6 +10,7 @@
 * [LagartoParser](lagarto-parser/lagartoparser.md)
 * [Events](lagarto-parser/events.md)
 * [Configuration](lagarto-parser/configuration.md)
+* [Adapter and Writer](lagarto-parser/adapter-and-writer.md)
 * [FAQ](lagarto-parser/faq.md)
 
 ## Lagarto DOM

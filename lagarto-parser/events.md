@@ -42,5 +42,9 @@ Callback for the `doctype` tag.
 
 These two callbacks are invoked for XML-specific tags when parsing the XML content.
 
+### error\(String\)
+
+Every error is reported by visiting this method. Depending on the configuration, the error message would contain the exact error position or not.
+
 
 

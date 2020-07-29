@@ -49,3 +49,7 @@ HTML parsing \(i.e. tokenization\) is done strictly by the official [HTML5 speci
 * Internet Explorer conditional comments are supported.
 * XML is supported too.
 
+### Input types
+
+**LagartoParser** accepts both `char[]` and `CharSequence`. This allows the usage of various implementations of inputs, including `String`, or even a `Reader`.
+
