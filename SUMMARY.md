@@ -16,6 +16,8 @@
 ## Lagarto DOM
 
 * [LagartoDOM](lagarto-dom/lagartodom.md)
+* [Parsing modes](lagarto-dom/parsing-modes.md)
+* [Configuration](lagarto-dom/configuration.md)
 
 ## Jerry
 

@@ -49,6 +49,10 @@ HTML parsing \(i.e. tokenization\) is done strictly by the official [HTML5 speci
 * Internet Explorer conditional comments are supported.
 * XML is supported too.
 
+{% hint style="warning" %}
+**LagartoParser** only performs tokenization and it does not verify if tags make sense. For example, if your HTML has a non-closed tag, **LagartoParser** will not consider this as an error. **LagartoDom**, on the other hand, will handle these cases.
+{% endhint %}
+
 ### Input types
 
 **LagartoParser** accepts both `char[]` and `CharSequence`. This allows the usage of various implementations of inputs, including `String`, or even a `Reader`.
