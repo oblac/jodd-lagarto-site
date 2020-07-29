@@ -1,5 +1,5 @@
 ---
-description: Few tips on how to use Jodd Lagarto suite in your app
+description: Tips on how to install Jodd Lagarto library in your app
 ---
 
 # Installation
@@ -55,6 +55,8 @@ libraryDependencies += "org.jodd" % "jodd-lagarto" % "x.x.x"
 {% endtabs %}
 
 That is all!
+
+Jodd Lagarto has only one \(and small\) dependency: the Jodd util library, that is released under the same license.
 
 ### Snapshots
 
