@@ -3,7 +3,6 @@
 * [Lagarto HTML parsers suite](README.md)
 * [Installation](contribute.md)
 * [Contact](contact.md)
-* [What is Jodd?](what-is-jodd.md)
 
 ## Lagarto parser
 
