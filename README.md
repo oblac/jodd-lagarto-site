@@ -19,5 +19,5 @@ Lagarto parsers are compatible with Java 8 and newer.
 
 ### License
 
-Lagarto is released under the `BSD-2-Clause` license. It has no other dependencies, so you should be able to use it in any project and for any purpose.
+Lagarto is released under the `BSD-2-Clause` license. It has a minimal set of dependencies with the same or similarly open license, so you should be able to use it in any project and for any purpose.
 
