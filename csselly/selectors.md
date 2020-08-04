@@ -58,3 +58,7 @@ The list of additional pseudo-classes and pseudo-functions supported by **CSSell
 * `:lt(n)`
 * `:contains(text)`
 
+### Escaping
+
+**CSSelly** supports escaping characters using the backslash, e.g.: `nspace\:name` refers to the tag name `nspace:name` \(that uses namespaces\) and not for pseudo-class `name`.
+

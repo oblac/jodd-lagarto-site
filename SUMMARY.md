@@ -27,4 +27,5 @@
 
 * [CSSelly](csselly/csselly.md)
 * [Selectors](csselly/selectors.md)
+* [Customize](csselly/customize.md)
 

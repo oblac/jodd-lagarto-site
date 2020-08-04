@@ -22,5 +22,3 @@ NodeSelector nodeSelector = new NodeSelector(document);
 LinkedList<Node> selectedNodes = nodeSelector.select("div#jodd li");
 ```
 
-
-
