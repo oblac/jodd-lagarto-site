@@ -21,7 +21,7 @@
 ## Jerry
 
 * [Jerry](jerry/jerry.md)
-* [Using Jerry](jerry/working-with-jerry.md)
+* [Using Jerry](jerry/using-jerry.md)
 
 ## CSSelly
 
