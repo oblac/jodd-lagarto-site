@@ -2,7 +2,7 @@
 description: Some differences and add-ons
 ---
 
-# Working with Jerry
+# Using Jerry
 
 In Java we do not have the document context as in browsers, so we need to create one first. To do that, simply pass HTML content to **Jerry** static factory method. That will create a root **Jerry** set, containing a `Document` root node of the parsed DOM tree.
 
