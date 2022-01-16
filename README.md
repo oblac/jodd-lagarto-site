@@ -12,7 +12,7 @@ description: Java libraries for HTML/XML parsing
 4. **CSSelly** - finally, the parser of CSS3 selectors.
 
 {% hint style="info" %}
-Each of the **Lagarto** libraries has it's pros and cons. You should check each and use one that suits your requirements.
+Each of the **Lagarto** libraries has its pros and cons. You should check each and use one that suits your requirements.
 {% endhint %}
 
 Lagarto parsers are compatible with Java 8 and newer.
