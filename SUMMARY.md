@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Lagarto HTML parsers suite](README.md)
-* [Installation](contribute.md)
+* [Installation](install.md)
 * [Contact](contact.md)
 
 ## Lagarto parser
@@ -28,4 +28,3 @@
 * [CSSelly](csselly/csselly.md)
 * [Selectors](csselly/selectors.md)
 * [Customize](csselly/customize.md)
-

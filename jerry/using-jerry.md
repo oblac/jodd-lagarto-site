@@ -42,16 +42,15 @@ As **Jerry** is all about 'static' manipulation of HTML content, all jQuery meth
 
 **Jerry** provides some add-ons that do not exist in jQuery.
 
-First, there are few methods that return `Node` of parsed DOM tree \(similar to JavaScript\).
+First, there are few methods that return `Node` of parsed DOM tree (similar to JavaScript).
 
 Then there are some new methods that are more meaningful in Java world. One of them is the `form()` method. It collects all parameters from a given form, allowing easy form handling. Here is an example:
 
 ```java
 Jerry.of("html")
-		.form("#myform", (form, parameters) -> {
-			// process form and parameters
-		});
+     .form("#myform", (form, parameters) -> {
+         // process form and parameters
+     });
 ```
 
 Convenient, right!?
-

@@ -10,7 +10,7 @@ Let's see **LagartoDom** in action:
 
 ```java
 Document document = new LagartoDOMBuilder()
-				.parse("<html><h1>Hello</h1></html>");
+.parse("<html><h1>Hello</h1></html>");
 
 Node html = document.getChild(0);
 Node h1 = html.getFirstChild();
@@ -37,11 +37,10 @@ By default, **LagartoDOM** follows all the rules that do not involve any _moveme
 
 In most cases, this will be perfectly fine, as developers are probably not using all the tricks of HTML5 for the sake of better readability.
 
-Still, you can turn on some more rules, you can turn them on! In that case, the resulting DOM tree can be modified per HTML5 rules. I have implemented the most common of these rules and exceptions, but haven't covered them all \(yet\). So if you have some weird HTML, you might get a different tree than what you get in a browser.
+Still, you can turn on some more rules, you can turn them on! In that case, the resulting DOM tree can be modified per HTML5 rules. I have implemented the most common of these rules and exceptions, but haven't covered them all (yet). So if you have some weird HTML, you might get a different tree than what you get in a browser.
 
 {% hint style="info" %}
-**LagartoDOM** is not \(yet\) a strict implementation of HTML5 DOM-building rules, but it is good enough for most cases!
+**LagartoDOM** is not (yet) a strict implementation of HTML5 DOM-building rules, but it is good enough for most cases!
 {% endhint %}
 
-Carry on :\)
-
+Carry on :)
